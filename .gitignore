@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Word lock files
+~$*
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
